@@ -316,7 +316,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/4d0cc351-9ec1-4b96-b174-7dc3e9713f07" />
 
-![WhatsApp Image 2025-11-05 at 09 12 33_2edd436d](https://github.com/user-attachments/assets/c958df3e-95c0-422f-9ace-0eb130070d52)
+<img width="725" height="847" alt="Screenshot 2025-11-11 083203" src="https://github.com/user-attachments/assets/7da8ad4e-7197-4537-ac98-883e40896834" />
 
 <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/fbd61578-d1b0-450c-8c86-f085d49d5e5d" />
 
