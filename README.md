@@ -311,10 +311,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
 
-## Result :
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67503e78-9f5a-46a8-b3d9-5c862952e38c" />
-
 ## Output  :
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67503e78-9f5a-46a8-b3d9-5c862952e38c" />
 
 <img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/4d0cc351-9ec1-4b96-b174-7dc3e9713f07" />
 
@@ -324,6 +322,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![WhatsApp Image 2025-11-05 at 09 13 05_46824b10](https://github.com/user-attachments/assets/c5d6cfeb-1a75-4485-9866-d18c9339f6b0)
 
+## Result :
+
+Thus configure ADC channel for interfacing an analog sensor and read the values on the com port successfully.
 
 
 ****
